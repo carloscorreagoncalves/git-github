@@ -1,4 +1,0 @@
-
-(gitg:6644): GLib-GIO-CRITICAL **: 16:16:31.877: g_converter_convert: assertion 'outbuf_size > 0' failed
-
-** (gitg:6644): WARNING **: 16:16:31.877: gitg-resource.vala:33: Error while loading resource: style-unix.css:1:0Failed to import: Falha ao descompactar o recurso em “/org/gnome/gitg/ui/style-unix.css”
